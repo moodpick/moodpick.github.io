@@ -48,8 +48,8 @@ keywords = ["쇼핑", "리뷰", "상품추천", "트렌드"]
 images = ["/images/og-default.webp"]
 
 # Search engine verification (set only when needed)
-googleSiteVerification = ""
-naverSiteVerification = ""
+googleSiteVerification = "wYI691jLJJcCGDUHEKLHiMCiG6RGFSbe9-rfyCSjioQ"
+naverSiteVerification = "efa3c3f4495ea12c07895b28b9356202f22c7efc"
 bingSiteVerification = ""
 yandexSiteVerification = ""
 
